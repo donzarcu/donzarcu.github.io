@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://donzarcu.github.io/sitemap.html.gz
+Sitemap: https://donzarcu.github.io/app/sitemap.html.gz
+Sitemap: https://donzarcu.github.io/assets/sitemap.html.gz
+Sitemap: https://donzarcu.github.io/css/sitemap.html.gz
+Sitemap: https://donzarcu.github.io/includes/sitemap.html.gz
+Sitemap: https://donzarcu.github.io/item/sitemap.html.gz
+Sitemap: https://donzarcu.github.io/src/sitemap.html.gz
